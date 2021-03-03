@@ -1,5 +1,3 @@
 text file
 
 Changes applied
-
-revert applied
