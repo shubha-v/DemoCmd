@@ -2,4 +2,4 @@ text file
 
 Changes applied
 
-submain branch created
+changes made for merging files to another branch
