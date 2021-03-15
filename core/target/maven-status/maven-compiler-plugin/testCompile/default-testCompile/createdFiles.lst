@@ -1,0 +1,5 @@
+aemproject\core\filters\LoggingFilterTest.class
+aemproject\core\listeners\SimpleResourceListenerTest.class
+aemproject\core\models\HelloWorldModelTest.class
+aemproject\core\schedulers\SimpleScheduledTaskTest.class
+aemproject\core\servlets\SimpleServletTest.class

@@ -1,0 +1,13 @@
+Manifest-Version: 1.0
+Created-By: Apache Maven
+Built-By: M1062154
+Build-Jdk: 15.0.1
+Implementation-Title: aemproject - UI content
+Implementation-Version: 1.0-SNAPSHOT
+Implementation-Vendor-Id: com.mindtree
+Content-Package-Roots: /conf/aemproject,/content/aemproject,/content/dam
+ /aemproject
+Content-Package-Description: UI content package for aemproject
+Content-Package-Id: aemproject:aemproject.ui.content:1.0-SNAPSHOT
+Content-Package-Type: content
+
